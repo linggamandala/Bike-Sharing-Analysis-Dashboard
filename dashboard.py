@@ -14,7 +14,7 @@ st.subheader("""
         :bike: Analisis Pengguna Rental Sepeda dari Capital Bikeshare System Washington D.C, Amerika Serikat Tahun 2011-2012 :bike:
         """)
 
-img=Image.open('/images/bike.jpg')
+img=Image.open('images/bike.jpg')
 st.image(img, width=600)
 
 st.write("""
